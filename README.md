@@ -2,11 +2,10 @@
 
 Meu nome é **Isaque** 💙
 
-- Estou estudando na Alura
-- Estou me desenvolvendo no Java Script
+- Estou estudando HTML, CSS e JS
 - Utilizo este espaço para compartilhamento de meus projetos
 
-  Você pode entrar em contato comigo 
+  Você pode entrar em contato comigo : 
 
  - keyvisonaraujo270@gmail.com
 
