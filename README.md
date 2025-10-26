@@ -1,9 +1,10 @@
-### **Boas vindas ao meu perfil**
+### **Boas vindas ao meu perfil!**
 
-Meu nome é **Isaque** 💙
+Meu nome é **Isaque Lopes** 👨🏻‍💻
 
-- Estou estudando HTML, CSS e JS
-- Utilizo este espaço para compartilhamento de meus projetos
+- Conheço o básico de HTML, CSS e JS.
+- Atualmente estou estudando um pouco de Node.Js e realizando um curso de C#.Net
+- Utilizo este espaço para compartilhamento de meus projetos.
 
   Você pode entrar em contato comigo : 
 
